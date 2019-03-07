@@ -1,0 +1,5 @@
+.logo--spin {
+    height: 60px;
+    width: 60px;
+    animation: spin 1.2s linear infinite;
+}
